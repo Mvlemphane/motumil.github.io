@@ -1,0 +1,53 @@
+body{
+	background-image: linear-gradient(to right,seagreen,honeydew);
+	font-style: italic;
+}
+h1{
+	font-style: italic;
+	color: navy;
+}
+li{
+	display: inline-block;
+	padding: 10px;
+	border-spacing: inherit;
+}
+nav{
+	position: fixed;
+	float: right;
+	background-image: linear-gradient(to left,yellowgreen,transparent,yellowgreen);
+	width: 100%;
+}
+.wrapper {
+width: 100%;
+border: 2px solid #000000;
+height: inherit;
+}
+
+.footer{
+	float: right;
+	background-image: linear-gradient(to left,transparent,yellowgreen);
+	width: 100%;
+	position: fixed;
+}
+img{
+	padding-top: 70px;
+	border-radius: 400px;
+	height: 40%;
+}
+h4{
+	padding-left: 30px;
+	color: navy;
+}
+#li h2{
+	color: snow;
+	display: inline-block;
+}
+#li{
+	display: inline-block;
+}
+p{
+	padding-left: 50px;
+	color: honeydew;
+}
+
+
